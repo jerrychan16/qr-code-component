@@ -9,12 +9,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Create a responsive QR code component that matches the provided design specifications for both mobile (375px) and desktop (1440px) viewports.
 
 ### Screenshot
-![Desktop-View](image.png)
+![alt Desktop-View](image.png)
+![alt Mobile-View](image-1.png)
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/qr-code-component)
-- Live Site URL: [GitHub Pages](https://yourusername.github.io/qr-code-component)
+- Solution URL: [GitHub Repo](https://github.com/jerrychan16/qr-code-component)
+- Live Site URL: [Live Page](https://jerrychan16.github.io/qr-code-component/)
 
 ## My process
 
@@ -47,8 +48,8 @@ Areas I want to focus on in future projects:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@jerrychan16](https://www.frontendmentor.io/profile/jerrychan16)
+- GitHub - [@jerrychan16](https://github.com/jerrychan16)
 
 ## Acknowledgments
 
